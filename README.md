@@ -1,2 +1,2 @@
 # portfolio-site
-## 🔗<a href = "https://pradyumn1729.github.io/portfolio-site.github.io/"> Click here</a>
+## 🔗<a href = "https://krish0596.github.io/portfolio.github.io/"> Click here</a>
